@@ -1,3 +1,3 @@
-
-Usuario de GitHub: <tuusuario>
+Usuario de GitHub: pabgoncar
+Lenguaje favorito: Python
 Grupo de prácticas: L1
